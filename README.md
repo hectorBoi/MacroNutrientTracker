@@ -1,4 +1,3 @@
-Can you scale the images down 50%?
 # NutriTracker App
 
 ## Overview
