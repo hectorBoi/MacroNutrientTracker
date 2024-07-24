@@ -1,3 +1,4 @@
+![NutriTracker Banner](https://github.com/hectorBoi/MacroNutrientTracker/blob/main/images/README-NutriTracker.png)
 # NutriTracker App
 
 ## Overview
