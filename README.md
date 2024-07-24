@@ -4,8 +4,6 @@
 
 NutriTracker is an iOS app designed to help users track their daily food intake and monitor their nutritional habits. The app utilizes SwiftUI for its user interface, Firebase for backend services such as file storage and authentication, and integrates with the USDA API to fetch nutrient information for various foods.
 
-[![NutriTracker Demo Video](https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screen%20Recording%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.43.47.mp4)
-
 ## Features
 
 1. **Firebase Authentication:**
@@ -41,24 +39,33 @@ NutriTracker is an iOS app designed to help users track their daily food intake 
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/hectorBoi/MacroNutrientTracker/blob/3fafc81d3b9b2f58d6d24d817499db08ec155c5b/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.35.03.png)
-
-![Screenshot 2](https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.35.23.png)
-
-![Screenshot 3](https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.35.28.png)
-
-![Screenshot 4](https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.37.10.png)
-
-![Screenshot 5](https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.38.25.png)
-
-![Screenshot 6](https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.38.35.png)
-
-![Screenshot 7](https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.38.51.png)
-
-![Screenshot 8](https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.39.01.png)
-
-![Screenshot 9](https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.39.50.png)
+<div align="center">
+<table>
+<tr>
+<td><img src="https://github.com/hectorBoi/MacroNutrientTracker/blob/3fafc81d3b9b2f58d6d24d817499db08ec155c5b/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.35.03.png" width="300"></td>
+<td><img src="https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.35.23.png" width="300"></td>
+</tr>
+<tr>
+<td><img src="https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.35.28.png" width="300"></td>
+<td><img src="https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.37.10.png" width="300"></td>
+</tr>
+<tr>
+<td><img src="https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.38.25.png" width="300"></td>
+<td><img src="https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.38.35.png" width="300"></td>
+</tr>
+<tr>
+<td><img src="https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.38.51.png" width="300"></td>
+<td><img src="https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.39.01.png" width="300"></td>
+</tr>
+<tr>
+<td colspan="2"><img src="https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.39.50.png" width="300"></td>
+</tr>
+</table>
+</div>
 
 ## Contributors
 
 - Hector Emiliano Zepeda Gonzalez https://www.linkedin.com/in/hezg31/
+
+Video currently not working - 
+[![NutriTracker Demo Video](https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screen%20Recording%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.43.47.mp4)](https://github.com/hectorBoi/MacroNutrientTracker/blob/f0359412afab82363c0dc7f85b9caab13ebbc3d0/images/Simulator%20Screen%20Recording%20-%20iPhone%2015%20Pro%20-%202024-05-03%20at%2013.43.47.mp4)
